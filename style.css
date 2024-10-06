@@ -10,9 +10,11 @@ ul{
     margin-right: -7px;
     margin-left: -7px;
     margin-top: -20px;
+    padding: 15px;
 }
 #dos{ 
     background-color: aqua;
+
 }
 li{
     background-color: gainsboro;
@@ -24,6 +26,8 @@ li{
     color: black;
     text-align: left;
     display: inline-block;
+    margin-left: 50px;
+    padding: 10px;
 }
 #sesion{
     background-color: honeydew;
@@ -31,4 +35,30 @@ li{
     border-radius: 30px;
     margin-left: 200px;
     margin-right: 200px;
+    box-shadow: 5px 5px grey;
+}
+form{
+    border: cornsilk solid 1px;
+    background-color: whitesmoke;
+    margin-top: 60px;
+    margin-left: 250px;
+    border-radius: 20px;
+    margin-right: 250px;
+    box-shadow: 5px 5px;
+}
+button{
+    margin-left: 375px;
+    border-radius: 3px;
+}
+#pos{
+    color: black;
+}
+li{padding: 10px;
+box-shadow: 1px 1px;}
+img{
+    display: inline;
+    padding: 30px;
+}
+#parrafo{
+    padding: 50px;
 }
